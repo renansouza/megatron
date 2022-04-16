@@ -3,15 +3,23 @@
 	"colors": {
 		"editor.background": "#111111",
 		"editor.foreground": "#FFFFFF",
-		"sideBar.background": "#222222",
+		"sideBar.background": "#201e1e",
 		"activityBar.background": "#111111",
 		"activityBarBadge.background": "#f7000c",
 		"sideBarTitle.foreground": "#f7000c",
 		"panel.background":	"#222222",
 		"dropdown.background": "#222222",
 		"panelSectionHeader.background": "#222222",
-		"panelSection.dropBackground": "#40A865",
 		"statusBar.background": "#111111",
+		"menu.background": "#222222",
+		"menubar.selectionBackground": "#f7000c",
+		"menubar.selectionForeground": "#ffffff",
+		"menu.selectionBackground": "#f7000c",
+		"menu.selectionForeground": "#ffffff",
+		"menubar.selectionBorder": "#111111",
+		"menu.border": "#111111",
+		"titleBar.activeBackground": "#111111",
+		
 	},
 	"tokenColors": [
 		{
