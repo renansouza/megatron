@@ -1,0 +1,21 @@
+{
+    "name": "megatron",
+    "displayName": "Megatron",
+    "description": "Um tema inspirado no líder dos decepticons",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Renan Souza",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Renan Souza-color-theme.json"
+            }
+        ]
+    }
+}
