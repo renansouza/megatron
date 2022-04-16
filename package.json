@@ -3,12 +3,18 @@
     "displayName": "Megatron",
     "description": "Um tema inspirado no líder dos decepticons",
     "version": "0.0.1",
+    "publisher": "renansouza",
     "engines": {
         "vscode": "^1.66.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/renansouza/megatron.git"
+	},
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
