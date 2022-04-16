@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Renan Souza",
+                "label": "Megatron",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Renan Souza-color-theme.json"
+                "path": "./themes/megatron-color-theme.json"
             }
         ]
     }

@@ -1,10 +1,11 @@
 {
-	"name": "Renan Souza",
+	"name": "Megatron",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#111111",
+		"editor.foreground": "#FFFFFF",
+		"sideBar.background": "#222222",
+		"activityBarBadge.background": "#f7000c",
+		"sideBarTitle.foreground": "#f7000c",
 	},
 	"tokenColors": [
 		{
